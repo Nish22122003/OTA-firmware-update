@@ -1,2 +1,2 @@
 # OTA-firmware-update
-using Over The Air(OTA) method to create a program to update my espF12,esp8266-01s, and esp12E to update itself with giving the access of WiFi and it get updated with new programmed .bin file. 
+This guide provides detailed instructions on how to perform Over The Air (OTA) updates on ESP8266-based modules (espF12, esp8266-01s, and esp12E). OTA updates allow you to wirelessly upload new firmware to your ESP modules without needing physical access to the devices.
